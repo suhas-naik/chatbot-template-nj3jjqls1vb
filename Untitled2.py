@@ -180,7 +180,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": full,
    "id": "b42bbbac",
    "metadata": {},
    "outputs": [],
